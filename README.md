@@ -23,8 +23,6 @@ Este projeto permite "buscar vagas de emprego" utilizando a API do Google Jobs, 
 
 ### Dependências do Python  
 
-### "Dependências do Python"
-
 - **Python 3.8+**
 - **Bibliotecas Python:**
   - `csv` (nativa do Python).
