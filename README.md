@@ -82,8 +82,7 @@ Este projeto permite "buscar vagas de emprego" utilizando a API do Google Jobs, 
 
  ```bash
 .
-├── vagas.py         # Script Python para buscar vagas e gerar o CSV.
-├── index.html       # Interface web para upload e visualização dos dados.
+├── vagas.py         # Script Python para buscar vagas e gerar o CSV e os gráficos.     
 ├── README.md        # Instruções do projeto.
 ```
 💡 Notas Adicionais
